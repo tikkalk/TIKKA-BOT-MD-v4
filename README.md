@@ -1,6 +1,6 @@
 <h1 align="center">📍TIKKA MD BOT-V4📍<br></h1>
 <p align="center">
-<img src="[https://telegra.ph/file/9b6b121657cb9643df116.jpg]"
+<img src="[https://i.ibb.co/rZTCTg6/20221021-001912.jpg]"
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy) 
 
